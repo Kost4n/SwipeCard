@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "475801518752",
+    "project_id": "rivalmus",
+    "storage_bucket": "rivalmus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475801518752:android:2431cfe12066f8ffd2ffc5",
+        "android_client_info": {
+          "package_name": "manchester.united.squad"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9i9jxxApkUalAqammLwkkdvDrU_IGE7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
